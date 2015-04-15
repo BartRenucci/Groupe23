@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/VISUAL STUDIO UTLIMATE/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Génération de code/Journal de transformation de texte">
+  <MessageClass Name="Message" Label="Message" Option="Afficher les messages d'information" />
+  <MessageClass Name="Warning" Label="Avertissement" Option="Afficher les avertissements" />
+  <MessageClass Name="Error" Label="Erreur" Option="Afficher les erreurs" />
+  <MessageClass Name="Property" Label="Propriété" Option="Afficher les métadonnées" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Afficher les messages de diagnostic" />
+  <Message Timestamp="2015-04-10T20:57:31" Importance="High" Text="Génération du code ou transformation du texte démarrées." />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="Nom = ClassTemplate" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="Remplacer = True" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="ProjectPath = ..\Groupe23Lib\Groupe23Lib.csproj" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="TemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:32" Importance="Medium" Text="La liaison de modèle de texte 'ClassTemplate' de Groupe23 appliquera ClassTemplate.t4 à 'Groupe23::Options' -  (Class), 'Groupe23::Icones' -  (Class), 'Groupe23::Pointer' -  (Class), 'Groupe23::Background' -  (Class) " />
+  <Message Timestamp="2015-04-10T20:57:40" Importance="Medium" Text="Projet ajouté : C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\Groupe23Lib.csproj" />
+  <Message Timestamp="2015-04-10T20:57:40" Importance="Medium" Text="'Groupe23::Options' -  (Class) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Options.cs" />
+  <Message Timestamp="2015-04-10T20:57:42" Importance="Medium" Text="'Groupe23::Icones' -  (Class) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Icones.cs" />
+  <Message Timestamp="2015-04-10T20:57:42" Importance="Medium" Text="'Groupe23::Pointer' -  (Class) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Pointer.cs" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Medium" Text="'Groupe23::Background' -  (Class) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Background.cs" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="Nom = InterfaceTemplate" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="Remplacer = True" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="ProjectPath = ..\Groupe23Lib\Groupe23Lib.csproj" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="TemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:43" Importance="Medium" Text="La liaison de modèle de texte 'InterfaceTemplate' de Groupe23 appliquera InterfaceTemplate.t4 à 'Groupe23::EyeTracker' -  (Interface), 'Groupe23::Unity' -  (Interface), 'Groupe23::Windows' -  (Interface) " />
+  <Message Timestamp="2015-04-10T20:57:44" Importance="Medium" Text="'Groupe23::EyeTracker' -  (Interface) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\EyeTracker.cs" />
+  <Message Timestamp="2015-04-10T20:57:44" Importance="Medium" Text="'Groupe23::Unity' -  (Interface) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Unity.cs" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Medium" Text="'Groupe23::Windows' -  (Interface) : réussite (fichier créé) - C:\Users\bartl_000\Documents\GitHub\App1\Groupe23Lib\GeneratedCode\Windows.cs" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="Nom = StructTemplate" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="Remplacer = True" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="ProjectPath = ..\Groupe23Lib\Groupe23Lib.csproj" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="TemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\VISUAL STUDIO UTLIMATE\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2015-04-10T20:57:45" Importance="Medium" Text="La liaison de modèle de texte 'StructTemplate' de Groupe23 appliquera StructTemplate.t4 à 'Groupe23::Options' -  (Class), 'Groupe23::Icones' -  (Class), 'Groupe23::Pointer' -  (Class), 'Groupe23::Background' -  (Class) " />
+  <Message Timestamp="2015-04-10T20:57:46" Importance="Diagnostic" Text="'Groupe23::Options' -  (Class) : aucun fichier n'a été généré, car la méthode 'AppliesToElement' du modèle 'StructTemplate.t4' a été évaluée comme false." />
+  <Message Timestamp="2015-04-10T20:57:46" Importance="Diagnostic" Text="'Groupe23::Icones' -  (Class) : aucun fichier n'a été généré, car la méthode 'AppliesToElement' du modèle 'StructTemplate.t4' a été évaluée comme false." />
+  <Message Timestamp="2015-04-10T20:57:46" Importance="Diagnostic" Text="'Groupe23::Pointer' -  (Class) : aucun fichier n'a été généré, car la méthode 'AppliesToElement' du modèle 'StructTemplate.t4' a été évaluée comme false." />
+  <Message Timestamp="2015-04-10T20:57:46" Importance="Diagnostic" Text="'Groupe23::Background' -  (Class) : aucun fichier n'a été généré, car la méthode 'AppliesToElement' du modèle 'StructTemplate.t4' a été évaluée comme false." />
+  <Message Timestamp="2015-04-10T20:57:46" Importance="High" Text="Génération du code terminée. Erreurs : 0. Avertissements : 0." />
+</Log>
